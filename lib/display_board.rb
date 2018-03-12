@@ -5,5 +5,4 @@ def display_board
   print "   " | "   " | "   "
   print "-----------"
   print "   " | "   " | "   "
-  puts "A Tic Tac Toe Board"
 end
